@@ -150,7 +150,7 @@ body::-webkit-scrollbar {
 }
 
 .shortener {
-  transform: translateY(-80px);
+  transform: translateY(-5rem);
 }
 
 .shortener__form {
